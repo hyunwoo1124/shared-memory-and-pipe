@@ -1,0 +1,25 @@
+total 168
+-rw-rw-r-- 1 student student   895 Feb  6 15:30 createProcess.c
+-rw-rw-r-- 1 student student  1043 Feb  6 19:09 IPCSystem.c
+-rw-rw-r-- 1 student student   452 Feb  6 18:06 IPCSystemStruct.c
+-rwxrwxr-x 1 student student 14328 Feb 10 04:08 man
+-rwxrwxr-x 1 student student 11080 Feb  7 21:09 mem
+-rwxrwxr-x 1 student student 16392 Feb 11 15:00 pipe
+-rw-rw-r-- 1 student student   883 Feb  8 17:43 pipes.c
+-rwxrwxr-x 1 student student 11352 Feb  7 19:57 proc
+-rw-rw-r-- 1 student student   330 Feb  7 19:56 SeparateProcess.c
+-rw-rw-r-- 1 student student   807 Feb  7 21:08 sharedMemory2.c
+-rw-rw-r-- 1 student student   445 Feb  8 17:56 sharedMemoryAndFork.c
+-rw-rw-r-- 1 student student   500 Feb 11 00:54 sharedMemory.c
+-rwxrwxr-x 1 student student 16184 Feb 11 13:04 shm
+-rwxrwxr-x 1 student student  8712 Feb 10 03:15 test
+-rw-rw-r-- 1 student student  1905 Feb 11 02:29 test.c
+-rw-rw-r-- 1 student student   449 Feb  6 14:45 test.cpp
+-rw-rw-r-- 1 student student   674 Feb 10 00:42 testing.c
+-rwxrwxr-x 1 student student 16184 Feb 11 13:37 time
+-rw-rw-r-- 1 student student  1682 Feb 11 15:01 time_pipe.c
+-rw-rw-r-- 1 student student  1429 Feb 11 13:38 time_pipe_output.txt
+-rw-rw-r-- 1 student student  2378 Feb 11 13:37 time_shm.c
+-rw-rw-r-- 1 student student  1431 Feb 11 13:37 time_shm_output.txt
+-rw-rw-r-- 1 student student   407 Feb  7 17:12 timeval_t.c
+Time in microseconds using pipe:1549926117 microseconds
